@@ -1,24 +1,46 @@
-## Hi there 👋
+## Welcome to my GitHub
 
-Welcome to my GitHub profile!
+I’m a data science grad student at Seattle University. I mostly work on machine learning problems that are practical and tied to real datasets. I like building things end to end, from data cleaning to modeling to actually making it usable.
 
-I'm a data science grad student with a focus on machine learning, model fairness, and real-world impact. I enjoy building practical tools, working with neural networks, and digging into ethical AI.
+---
 
 ### 🔭 Currently working on
-- **Bird Call Classification** using CNN  on spectrograms
-- **Ethical AI Dashboard** exploring fairness and explainability in ML models
-- **Health Risk Prediction** with SVMs on national health survey data
+- **Football Injury RAG System** using Qdrant and multi source data  
+- **Formula 1 Prediction System** with race outcome modeling and simulation  
+
+---
+
+### ⚙️ Projects
+- **Football Injury RAG System** using Qdrant and multi source data  
+- **Formula 1 Prediction System** with race outcome modeling and simulation  
+- **Bird Call Classification** using CNN on spectrograms  
+- **Heart Attack Risk Prediction** using SVMs  
+
+---
 
 ### 🌱 Learning
-- Advanced model interpretation techniques (SHAP, LIME)
-- Streaming data pipelines and deployment tools
+- **Model interpretability** using SHAP and LIME  
+- **Streaming pipelines and deployment** using modern tools  
+
+---
 
 ### 💬 Ask me about
-- Model debugging and optimization
-- Ethical implications of predictive systems
-- Working with real-world survey or audio data
+- **Model debugging and optimization**  
+- **Ethical implications of predictive systems**  
+- **Working with real world survey or audio data**  
+
+---
 
 ### 📫 Reach me
-- LinkedIn: www.linkedin.com/in/sanjayrameshkannan
+- **LinkedIn:** www.linkedin.com/in/sanjayrameshkannan  
+
+---
+
+### 🚀 Notes
+- Focused on **end to end ML systems**
+- Prefer **real world datasets over toy problems**
+- Always optimizing for **practical impact**
+
+---
 
 Thanks for stopping by!
